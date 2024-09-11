@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software engineer who's just starting his journey. I want to focus on perception algorithms and make a cut into the ML/AI industry.
-I am driven by the pure instinct of improving myself. Maybe I started later than most but I will get there at my own pace.
+I'm a software engineer who's just starting. I want to focus on perception algorithms and make a cut into the ML/AI industry.
+I am driven by the pure instinct of improving myself.
 
 * Just graduated from Technical University of Cluj-Napoca and joined a MsC program which involves AI and ML,
 * Implemented Visual-Inertial Odometry for my [bachelor's thesis](https://costinchitic.co/projects/Bachelors),
