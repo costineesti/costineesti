@@ -18,4 +18,4 @@ I'm a software engineer who's just starting. I want to focus on perception algor
 I am driven by the pure instinct of improving myself.
 
 * Just graduated from Technical University of Cluj-Napoca and joined a MsC program which involves AI and ML,
-* Implemented Visual-Inertial Odometry for my [bachelor's thesis](https://costinchitic.co/projects/Bachelors),
+* Implemented Visual-Inertial Odometry for my [bachelor's thesis](https://costinchitic.co/projects/Bachelors).
